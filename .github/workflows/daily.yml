@@ -2,8 +2,9 @@ name: Daily Research Digest
 
 on:
   schedule:
-    - cron: "0 14 * * *"  # 7:00am Mountain Time (UTC-7) / adjust to 15 in winter (MST = UTC-6)
-  workflow_dispatch:       # allows manual trigger from GitHub UI for testing
+    - cron: "0 14 * * *"   # 7am MDT
+    - cron: "0 15 * * *"   # 8am MDT backup
+  workflow_dispatch:
 
 jobs:
   send-digest:
@@ -14,6 +15,8 @@ jobs:
     steps:
       - name: Check out code
         uses: actions/checkout@v4.2.2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v5.6.0
@@ -29,3 +32,11 @@ jobs:
           ICLOUD_ADDRESS: ${{ secrets.ICLOUD_ADDRESS }}
           ICLOUD_APP_PASSWORD: ${{ secrets.ICLOUD_APP_PASSWORD }}
         run: python main.py
+
+      - name: Save seen links back to repo
+        run: |
+          git config user.name "research-digest-bot"
+          git config user.email "actions@github.com"
+          git add seen_links.json
+          git diff --staged --quiet || git commit -m "update seen links [skip ci]"
+          git push
