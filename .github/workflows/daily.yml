@@ -2,8 +2,7 @@ name: Daily Research Digest
 
 on:
   schedule:
-    - cron: "0 14 * * *"   # 7am MDT
-    - cron: "0 15 * * *"   # 8am MDT backup
+    - cron: "0 10 * * *" # 7am MDT
   workflow_dispatch:
 
 jobs:
