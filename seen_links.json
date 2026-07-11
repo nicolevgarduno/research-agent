@@ -1,9 +1,4 @@
 {
-  "http://arxiv.org/abs/2606.11186v1": "2026-06-10",
-  "http://arxiv.org/abs/2606.10978v1": "2026-06-10",
-  "http://arxiv.org/abs/2606.11000v1": "2026-06-10",
-  "http://arxiv.org/abs/2606.11129v1": "2026-06-10",
-  "https://arstechnica.com/security/2026/06/a-single-errant-character-in-the-linux-kernel-allows-attacker-to-gain-root/": "2026-06-10",
   "http://arxiv.org/abs/2606.12251v1": "2026-06-11",
   "http://arxiv.org/abs/2606.12396v1": "2026-06-11",
   "http://arxiv.org/abs/2606.12263v1": "2026-06-11",
@@ -115,5 +110,8 @@
   "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/": "2026-07-08",
   "http://arxiv.org/abs/2607.08745v1": "2026-07-10",
   "http://arxiv.org/abs/2607.08586v1": "2026-07-10",
-  "http://arxiv.org/abs/2607.08751v1": "2026-07-10"
+  "http://arxiv.org/abs/2607.08751v1": "2026-07-10",
+  "http://arxiv.org/abs/2607.08770v1": "2026-07-11",
+  "http://arxiv.org/abs/2607.08772v1": "2026-07-11",
+  "http://arxiv.org/abs/2607.08771v1": "2026-07-11"
 }
