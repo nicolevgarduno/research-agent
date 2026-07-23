@@ -1,8 +1,4 @@
 {
-  "http://arxiv.org/abs/2606.20559v1": "2026-06-22",
-  "http://arxiv.org/abs/2606.20561v1": "2026-06-22",
-  "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/": "2026-06-22",
-  "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/": "2026-06-22",
   "http://arxiv.org/abs/2606.23686v1": "2026-06-23",
   "http://arxiv.org/abs/2606.23574v1": "2026-06-23",
   "http://arxiv.org/abs/2606.23625v1": "2026-06-23",
@@ -119,5 +115,9 @@
   "http://arxiv.org/abs/2607.19267v1": "2026-07-22",
   "http://arxiv.org/abs/2607.19321v1": "2026-07-22",
   "http://arxiv.org/abs/2607.19335v1": "2026-07-22",
-  "http://arxiv.org/abs/2607.19292v1": "2026-07-22"
+  "http://arxiv.org/abs/2607.19292v1": "2026-07-22",
+  "http://arxiv.org/abs/2607.20392v1": "2026-07-23",
+  "http://arxiv.org/abs/2607.20326v1": "2026-07-23",
+  "http://arxiv.org/abs/2607.20402v1": "2026-07-23",
+  "http://arxiv.org/abs/2607.20386v1": "2026-07-23"
 }
