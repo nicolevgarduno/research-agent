@@ -1,7 +1,4 @@
 {
-  "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/": "2026-06-24",
-  "https://arstechnica.com/apple/2026/06/apple-patches-high-severity-eavesdropping-vulnerability-in-beats-studio-buds/": "2026-06-24",
-  "https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/": "2026-06-24",
   "http://arxiv.org/abs/2606.26036v1": "2026-06-25",
   "http://arxiv.org/abs/2606.26095v1": "2026-06-25",
   "http://arxiv.org/abs/2606.26025v1": "2026-06-25",
@@ -118,5 +115,9 @@
   "http://arxiv.org/abs/2607.21526v1": "2026-07-24",
   "http://arxiv.org/abs/2607.21438v1": "2026-07-24",
   "http://arxiv.org/abs/2607.21576v1": "2026-07-24",
-  "http://arxiv.org/abs/2607.21595v1": "2026-07-24"
+  "http://arxiv.org/abs/2607.21595v1": "2026-07-24",
+  "http://arxiv.org/abs/2607.21588v1": "2026-07-25",
+  "http://arxiv.org/abs/2607.21522v1": "2026-07-25",
+  "http://arxiv.org/abs/2607.21564v1": "2026-07-25",
+  "http://arxiv.org/abs/2607.21582v1": "2026-07-25"
 }
