@@ -1,26 +1,22 @@
+import os
 import requests
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 
-ARXIV_QUERIES = [
-    "adversarial attack computer vision",
-    "acoustic attack camera sensor",
-    "object detection adversarial",
-    "physical attack deep learning",
-    "AI security robustness",
-]
-
-OSTI_KEYWORDS = [
-    "adversarial machine learning",
-    "AI cybersecurity",
-    "computer vision security",
-    "deep learning robustness",
-]
+# Personalize these via the ARXIV_QUERIES / OSTI_KEYWORDS environment variables
+# (comma-separated search terms) — see README for setup. Nothing here is
+# specific to any one person; this file is deploy-as-is.
+ARXIV_QUERIES = [q.strip() for q in os.environ.get("ARXIV_QUERIES", "").split(",") if q.strip()]
+OSTI_KEYWORDS = [q.strip() for q in os.environ.get("OSTI_KEYWORDS", "").split(",") if q.strip()]
 
 ARS_TECHNICA_RSS = "https://feeds.arstechnica.com/arstechnica/technology-lab"
 
 
 def fetch_arxiv(days_back=1):
+    if not ARXIV_QUERIES:
+        print("  ARXIV_QUERIES not set — skipping arXiv (set it to a comma-separated list of search terms).")
+        return []
+
     results = []
     since = (datetime.now(timezone.utc) - timedelta(days=days_back)).strftime("%Y%m%d")
     for query in ARXIV_QUERIES:
@@ -65,6 +61,10 @@ def fetch_arxiv(days_back=1):
 
 
 def fetch_osti(days_back=1):
+    if not OSTI_KEYWORDS:
+        print("  OSTI_KEYWORDS not set — skipping OSTI.gov (set it to a comma-separated list of keywords).")
+        return []
+
     results = []
     since = (datetime.now(timezone.utc) - timedelta(days=days_back)).strftime("%Y-%m-%d")
     for keyword in OSTI_KEYWORDS:

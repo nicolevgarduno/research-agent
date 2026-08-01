@@ -2,7 +2,7 @@ name: Daily Research Digest
 
 on:
   schedule:
-    - cron: "0 10 * * *" # 7am MDT
+    - cron: "0 14 * * *" # 7am Mountain Time (MDT). See README for other timezones.
   workflow_dispatch:
 
 jobs:
@@ -28,8 +28,13 @@ jobs:
       - name: Run digest agent
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          ICLOUD_ADDRESS: ${{ secrets.ICLOUD_ADDRESS }}
-          ICLOUD_APP_PASSWORD: ${{ secrets.ICLOUD_APP_PASSWORD }}
+          RESEARCH_INTERESTS: ${{ secrets.RESEARCH_INTERESTS }}
+          ARXIV_QUERIES: ${{ secrets.ARXIV_QUERIES }}
+          OSTI_KEYWORDS: ${{ secrets.OSTI_KEYWORDS }}
+          EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
+          EMAIL_APP_PASSWORD: ${{ secrets.EMAIL_APP_PASSWORD }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
         run: python main.py
 
       - name: Save seen links back to repo

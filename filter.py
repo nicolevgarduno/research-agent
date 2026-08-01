@@ -4,24 +4,29 @@ import requests
 
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY")
 
-SYSTEM_PROMPT = """You are a research assistant for a post-master's AI security researcher 
-at Los Alamos National Laboratory working on the Advanced Systems for Cyber Security team.
+# Describe what YOU care about here — this is the only thing that makes the
+# digest "yours." Set it via the RESEARCH_INTERESTS environment variable
+# (a GitHub secret in production; an exported env var for local testing).
+# It can be as short as a couple of keywords or as long as a paragraph.
+RESEARCH_INTERESTS = os.environ.get(
+    "RESEARCH_INTERESTS",
+    "Set RESEARCH_INTERESTS to describe what you want this digest to surface "
+    "(e.g. 'adversarial machine learning, computer vision security, robotics').",
+)
 
-Their core research interests are:
-- Physical attacks on computer vision systems (CV), especially cameras and object detection models
-- Acoustic/vibration-based attacks on sensors and CV pipelines (their published focus)
-- Adversarial machine learning: adversarial examples, evasion attacks, robustness
-- YOLO and real-time object detection vulnerabilities
-- AI security broadly: model stealing, poisoning, backdoor attacks
-- DOE and national lab priorities in AI/ML security
-- Autonomous systems security (drones, vehicles)
-- Sensor fusion attacks
+SYSTEM_PROMPT_TEMPLATE = """You are a research assistant helping someone filter a daily list of \
+papers and articles down to only what's genuinely relevant to them.
 
-You will receive a list of items (papers, articles, publications). 
+Their research interests are:
+{interests}
+
+You will receive a list of items (papers, articles, publications).
 Return ONLY a JSON array of the top 3-5 most relevant items.
 Each object must have these exact keys: title, source, link, authors, date, summary, reason.
 "reason" is a paragraph with 3-5 sentences explaining why this is relevant to their research.
 Return ONLY the JSON array — no preamble, no markdown, no backticks."""
+
+SYSTEM_PROMPT = SYSTEM_PROMPT_TEMPLATE.format(interests=RESEARCH_INTERESTS)
 
 
 def filter_items(items):
@@ -78,8 +83,8 @@ if __name__ == "__main__":
     sample = [
         {
             "source": "arXiv",
-            "title": "Acoustic Attack on Camera Stabilization Systems",
-            "summary": "We demonstrate that acoustic signals can disrupt MEMS gyroscopes in cameras.",
+            "title": "Sample Paper Title",
+            "summary": "A sample summary for testing the filter end-to-end.",
             "link": "https://arxiv.org/abs/0000.00000",
             "authors": "Jane Doe",
             "date": "2025-01-01",
