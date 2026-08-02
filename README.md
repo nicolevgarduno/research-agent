@@ -1,6 +1,6 @@
 # Research Digest Agent
 <p align="center">
-  <img src="email_digest.png" width="850">
+  <img src="email_digest.png" width="450">
 </p>
 <p align="center"><i>Example of the email sent using this code.</i></p>
 
