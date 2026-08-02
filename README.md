@@ -1,4 +1,8 @@
 # Research Digest Agent
+<p align="center">
+  <img src="email_digest.png" width="850">
+</p>
+<p align="center"><i>Example of the email sent using this code.</i></p>
 
 Sends you a daily email digest of the research and news most relevant to your specified interests. Allows you to describe what you care about and Claude filters through to find 3-5 articles that are most important. Fully configurable: nothing in this repo is tied to any one person's interests or email provider.
 
