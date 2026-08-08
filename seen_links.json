@@ -1,9 +1,4 @@
 {
-  "http://arxiv.org/abs/2607.06485v1": "2026-07-08",
-  "http://arxiv.org/abs/2607.06563v1": "2026-07-08",
-  "http://arxiv.org/abs/2607.06564v1": "2026-07-08",
-  "http://arxiv.org/abs/2607.06516v1": "2026-07-08",
-  "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/": "2026-07-08",
   "http://arxiv.org/abs/2607.08745v1": "2026-07-10",
   "http://arxiv.org/abs/2607.08586v1": "2026-07-10",
   "http://arxiv.org/abs/2607.08751v1": "2026-07-10",
@@ -112,5 +107,8 @@
   "http://arxiv.org/abs/2608.06211v1": "2026-08-07",
   "http://arxiv.org/abs/2608.06337v1": "2026-08-07",
   "http://arxiv.org/abs/2608.06377v1": "2026-08-07",
-  "http://arxiv.org/abs/2608.06353v1": "2026-08-07"
+  "http://arxiv.org/abs/2608.06353v1": "2026-08-07",
+  "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/": "2026-08-08",
+  "http://arxiv.org/abs/2608.06315v1": "2026-08-08",
+  "http://arxiv.org/abs/2608.06351v1": "2026-08-08"
 }
