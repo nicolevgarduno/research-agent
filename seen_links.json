@@ -1,8 +1,4 @@
 {
-  "http://arxiv.org/abs/2607.09653v1": "2026-07-13",
-  "http://arxiv.org/abs/2607.09629v1": "2026-07-13",
-  "http://arxiv.org/abs/2607.09659v1": "2026-07-13",
-  "http://arxiv.org/abs/2607.09649v1": "2026-07-13",
   "http://arxiv.org/abs/2607.11843v1": "2026-07-14",
   "http://arxiv.org/abs/2607.11751v1": "2026-07-14",
   "http://arxiv.org/abs/2607.11868v1": "2026-07-14",
@@ -116,5 +112,9 @@
   "http://arxiv.org/abs/2608.11201v1": "2026-08-12",
   "http://arxiv.org/abs/2608.10985v1": "2026-08-12",
   "http://arxiv.org/abs/2608.11075v1": "2026-08-12",
-  "http://arxiv.org/abs/2608.11143v1": "2026-08-12"
+  "http://arxiv.org/abs/2608.11143v1": "2026-08-12",
+  "http://arxiv.org/abs/2608.12273v1": "2026-08-13",
+  "http://arxiv.org/abs/2608.12172v1": "2026-08-13",
+  "http://arxiv.org/abs/2608.12190v1": "2026-08-13",
+  "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/": "2026-08-13"
 }
