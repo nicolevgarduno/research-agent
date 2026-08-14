@@ -1,9 +1,4 @@
 {
-  "http://arxiv.org/abs/2607.11843v1": "2026-07-14",
-  "http://arxiv.org/abs/2607.11751v1": "2026-07-14",
-  "http://arxiv.org/abs/2607.11868v1": "2026-07-14",
-  "http://arxiv.org/abs/2607.11844v1": "2026-07-14",
-  "http://arxiv.org/abs/2607.11862v1": "2026-07-14",
   "http://arxiv.org/abs/2607.13028v1": "2026-07-15",
   "http://arxiv.org/abs/2607.12965v1": "2026-07-15",
   "http://arxiv.org/abs/2607.12993v1": "2026-07-15",
@@ -116,5 +111,10 @@
   "http://arxiv.org/abs/2608.12273v1": "2026-08-13",
   "http://arxiv.org/abs/2608.12172v1": "2026-08-13",
   "http://arxiv.org/abs/2608.12190v1": "2026-08-13",
-  "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/": "2026-08-13"
+  "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/": "2026-08-13",
+  "http://arxiv.org/abs/2608.13453v1": "2026-08-14",
+  "http://arxiv.org/abs/2608.13450v1": "2026-08-14",
+  "http://arxiv.org/abs/2608.13514v1": "2026-08-14",
+  "http://arxiv.org/abs/2608.13465v1": "2026-08-14",
+  "http://arxiv.org/abs/2608.13507v1": "2026-08-14"
 }
