@@ -1,8 +1,4 @@
 {
-  "http://arxiv.org/abs/2607.16175v1": "2026-07-20",
-  "http://arxiv.org/abs/2607.16193v1": "2026-07-20",
-  "http://arxiv.org/abs/2607.16154v1": "2026-07-20",
-  "http://arxiv.org/abs/2607.16156v1": "2026-07-20",
   "http://arxiv.org/abs/2607.18195v1": "2026-07-21",
   "http://arxiv.org/abs/2607.18230v1": "2026-07-21",
   "http://arxiv.org/abs/2607.18078v1": "2026-07-21",
@@ -112,5 +108,10 @@
   "http://arxiv.org/abs/2608.16852v1": "2026-08-18",
   "http://arxiv.org/abs/2608.17960v1": "2026-08-19",
   "http://arxiv.org/abs/2608.17836v1": "2026-08-19",
-  "http://arxiv.org/abs/2608.18066v1": "2026-08-19"
+  "http://arxiv.org/abs/2608.18066v1": "2026-08-19",
+  "http://arxiv.org/abs/2608.19088v1": "2026-08-20",
+  "http://arxiv.org/abs/2608.19161v1": "2026-08-20",
+  "http://arxiv.org/abs/2608.19135v1": "2026-08-20",
+  "http://arxiv.org/abs/2608.18976v1": "2026-08-20",
+  "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/": "2026-08-20"
 }
