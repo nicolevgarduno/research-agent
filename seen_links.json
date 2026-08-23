@@ -1,8 +1,4 @@
 {
-  "http://arxiv.org/abs/2607.20392v1": "2026-07-23",
-  "http://arxiv.org/abs/2607.20326v1": "2026-07-23",
-  "http://arxiv.org/abs/2607.20402v1": "2026-07-23",
-  "http://arxiv.org/abs/2607.20386v1": "2026-07-23",
   "http://arxiv.org/abs/2607.21526v1": "2026-07-24",
   "http://arxiv.org/abs/2607.21438v1": "2026-07-24",
   "http://arxiv.org/abs/2607.21576v1": "2026-07-24",
@@ -110,5 +106,8 @@
   "http://arxiv.org/abs/2608.20278v1": "2026-08-21",
   "http://arxiv.org/abs/2608.20318v1": "2026-08-22",
   "http://arxiv.org/abs/2608.20316v1": "2026-08-22",
-  "http://arxiv.org/abs/2608.20319v1": "2026-08-22"
+  "http://arxiv.org/abs/2608.20319v1": "2026-08-22",
+  "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/": "2026-08-23",
+  "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/": "2026-08-23",
+  "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/": "2026-08-23"
 }
