@@ -1,8 +1,4 @@
 {
-  "http://arxiv.org/abs/2607.21526v1": "2026-07-24",
-  "http://arxiv.org/abs/2607.21438v1": "2026-07-24",
-  "http://arxiv.org/abs/2607.21576v1": "2026-07-24",
-  "http://arxiv.org/abs/2607.21595v1": "2026-07-24",
   "http://arxiv.org/abs/2607.21588v1": "2026-07-25",
   "http://arxiv.org/abs/2607.21522v1": "2026-07-25",
   "http://arxiv.org/abs/2607.21564v1": "2026-07-25",
@@ -109,5 +105,9 @@
   "http://arxiv.org/abs/2608.20319v1": "2026-08-22",
   "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/": "2026-08-23",
   "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/": "2026-08-23",
-  "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/": "2026-08-23"
+  "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/": "2026-08-23",
+  "http://arxiv.org/abs/2608.21230v1": "2026-08-24",
+  "http://arxiv.org/abs/2608.21137v1": "2026-08-24",
+  "http://arxiv.org/abs/2608.21159v1": "2026-08-24",
+  "http://arxiv.org/abs/2608.21172v1": "2026-08-24"
 }
