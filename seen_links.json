@@ -1,8 +1,4 @@
 {
-  "http://arxiv.org/abs/2607.22445v1": "2026-07-27",
-  "http://arxiv.org/abs/2607.22535v1": "2026-07-27",
-  "http://arxiv.org/abs/2607.22422v1": "2026-07-27",
-  "http://arxiv.org/abs/2607.22530v1": "2026-07-27",
   "http://arxiv.org/abs/2607.24692v1": "2026-07-28",
   "http://arxiv.org/abs/2607.24556v1": "2026-07-28",
   "http://arxiv.org/abs/2607.24625v1": "2026-07-28",
@@ -111,5 +107,10 @@
   "http://arxiv.org/abs/2608.24857v1": "2026-08-26",
   "http://arxiv.org/abs/2608.24777v1": "2026-08-26",
   "http://arxiv.org/abs/2608.24865v1": "2026-08-26",
-  "http://arxiv.org/abs/2608.24818v1": "2026-08-26"
+  "http://arxiv.org/abs/2608.24818v1": "2026-08-26",
+  "http://arxiv.org/abs/2608.26011v1": "2026-08-27",
+  "http://arxiv.org/abs/2608.26049v1": "2026-08-27",
+  "http://arxiv.org/abs/2608.26031v1": "2026-08-27",
+  "http://arxiv.org/abs/2608.26008v1": "2026-08-27",
+  "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/": "2026-08-27"
 }
