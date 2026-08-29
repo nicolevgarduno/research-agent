@@ -1,8 +1,4 @@
 {
-  "http://arxiv.org/abs/2607.26047v1": "2026-07-29",
-  "http://arxiv.org/abs/2607.26005v1": "2026-07-29",
-  "http://arxiv.org/abs/2607.25987v1": "2026-07-29",
-  "http://arxiv.org/abs/2607.26034v1": "2026-07-29",
   "http://arxiv.org/abs/2607.26998v1": "2026-07-30",
   "http://arxiv.org/abs/2607.27080v1": "2026-07-30",
   "http://arxiv.org/abs/2607.27081v1": "2026-07-30",
@@ -112,5 +108,8 @@
   "http://arxiv.org/abs/2608.27288v1": "2026-08-28",
   "http://arxiv.org/abs/2608.27299v1": "2026-08-28",
   "http://arxiv.org/abs/2608.27443v1": "2026-08-28",
-  "http://arxiv.org/abs/2608.27424v1": "2026-08-28"
+  "http://arxiv.org/abs/2608.27424v1": "2026-08-28",
+  "http://arxiv.org/abs/2608.27393v1": "2026-08-29",
+  "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/": "2026-08-29",
+  "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/": "2026-08-29"
 }
