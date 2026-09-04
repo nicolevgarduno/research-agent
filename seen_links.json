@@ -1,6 +1,4 @@
 {
-  "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/": "2026-08-04",
-  "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/": "2026-08-04",
   "http://arxiv.org/abs/2608.03902v1": "2026-08-05",
   "http://arxiv.org/abs/2608.03895v1": "2026-08-05",
   "http://arxiv.org/abs/2608.03844v1": "2026-08-05",
@@ -112,5 +110,9 @@
   "http://arxiv.org/abs/2609.02774v1": "2026-09-03",
   "http://arxiv.org/abs/2609.02861v1": "2026-09-03",
   "http://arxiv.org/abs/2609.02830v1": "2026-09-03",
-  "http://arxiv.org/abs/2609.02852v1": "2026-09-03"
+  "http://arxiv.org/abs/2609.02852v1": "2026-09-03",
+  "http://arxiv.org/abs/2609.04170v1": "2026-09-04",
+  "http://arxiv.org/abs/2609.04022v1": "2026-09-04",
+  "http://arxiv.org/abs/2609.04166v1": "2026-09-04",
+  "http://arxiv.org/abs/2609.04159v1": "2026-09-04"
 }
