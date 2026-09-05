@@ -1,8 +1,4 @@
 {
-  "http://arxiv.org/abs/2608.03902v1": "2026-08-05",
-  "http://arxiv.org/abs/2608.03895v1": "2026-08-05",
-  "http://arxiv.org/abs/2608.03844v1": "2026-08-05",
-  "http://arxiv.org/abs/2608.03970v1": "2026-08-05",
   "http://arxiv.org/abs/2608.06211v1": "2026-08-07",
   "http://arxiv.org/abs/2608.06337v1": "2026-08-07",
   "http://arxiv.org/abs/2608.06377v1": "2026-08-07",
@@ -114,5 +110,8 @@
   "http://arxiv.org/abs/2609.04170v1": "2026-09-04",
   "http://arxiv.org/abs/2609.04022v1": "2026-09-04",
   "http://arxiv.org/abs/2609.04166v1": "2026-09-04",
-  "http://arxiv.org/abs/2609.04159v1": "2026-09-04"
+  "http://arxiv.org/abs/2609.04159v1": "2026-09-04",
+  "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/": "2026-09-05",
+  "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/": "2026-09-05",
+  "http://arxiv.org/abs/2609.04147v1": "2026-09-05"
 }
