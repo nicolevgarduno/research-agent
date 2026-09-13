@@ -1,8 +1,4 @@
 {
-  "http://arxiv.org/abs/2608.12273v1": "2026-08-13",
-  "http://arxiv.org/abs/2608.12172v1": "2026-08-13",
-  "http://arxiv.org/abs/2608.12190v1": "2026-08-13",
-  "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/": "2026-08-13",
   "http://arxiv.org/abs/2608.13453v1": "2026-08-14",
   "http://arxiv.org/abs/2608.13450v1": "2026-08-14",
   "http://arxiv.org/abs/2608.13514v1": "2026-08-14",
@@ -116,5 +112,8 @@
   "http://arxiv.org/abs/2609.11815v1": "2026-09-11",
   "http://arxiv.org/abs/2609.11873v1": "2026-09-12",
   "http://arxiv.org/abs/2609.11910v1": "2026-09-12",
-  "http://arxiv.org/abs/2609.11805v1": "2026-09-12"
+  "http://arxiv.org/abs/2609.11805v1": "2026-09-12",
+  "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/": "2026-09-13",
+  "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/": "2026-09-13",
+  "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/": "2026-09-13"
 }
