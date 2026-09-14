@@ -1,9 +1,4 @@
 {
-  "http://arxiv.org/abs/2608.13453v1": "2026-08-14",
-  "http://arxiv.org/abs/2608.13450v1": "2026-08-14",
-  "http://arxiv.org/abs/2608.13514v1": "2026-08-14",
-  "http://arxiv.org/abs/2608.13465v1": "2026-08-14",
-  "http://arxiv.org/abs/2608.13507v1": "2026-08-14",
   "http://arxiv.org/abs/2608.13554v1": "2026-08-15",
   "http://arxiv.org/abs/2608.13522v1": "2026-08-15",
   "http://arxiv.org/abs/2608.13496v1": "2026-08-15",
@@ -115,5 +110,7 @@
   "http://arxiv.org/abs/2609.11805v1": "2026-09-12",
   "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/": "2026-09-13",
   "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/": "2026-09-13",
-  "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/": "2026-09-13"
+  "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/": "2026-09-13",
+  "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/": "2026-09-14",
+  "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/": "2026-09-14"
 }
