@@ -1,9 +1,4 @@
 {
-  "http://arxiv.org/abs/2608.19088v1": "2026-08-20",
-  "http://arxiv.org/abs/2608.19161v1": "2026-08-20",
-  "http://arxiv.org/abs/2608.19135v1": "2026-08-20",
-  "http://arxiv.org/abs/2608.18976v1": "2026-08-20",
-  "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/": "2026-08-20",
   "http://arxiv.org/abs/2608.20338v1": "2026-08-21",
   "http://arxiv.org/abs/2608.20213v1": "2026-08-21",
   "http://arxiv.org/abs/2608.20278v1": "2026-08-21",
@@ -114,5 +109,8 @@
   "http://arxiv.org/abs/2609.20747v1": "2026-09-19",
   "http://arxiv.org/abs/2609.20629v1": "2026-09-19",
   "http://arxiv.org/abs/2609.20822v1": "2026-09-19",
-  "http://arxiv.org/abs/2609.20722v1": "2026-09-19"
+  "http://arxiv.org/abs/2609.20722v1": "2026-09-19",
+  "http://arxiv.org/abs/2609.20680v1": "2026-09-20",
+  "http://arxiv.org/abs/2609.20765v1": "2026-09-20",
+  "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/": "2026-09-20"
 }
