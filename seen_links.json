@@ -1,7 +1,4 @@
 {
-  "http://arxiv.org/abs/2608.20318v1": "2026-08-22",
-  "http://arxiv.org/abs/2608.20316v1": "2026-08-22",
-  "http://arxiv.org/abs/2608.20319v1": "2026-08-22",
   "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/": "2026-08-23",
   "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/": "2026-08-23",
   "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/": "2026-08-23",
@@ -112,5 +109,10 @@
   "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/": "2026-09-20",
   "http://arxiv.org/abs/2609.21941v1": "2026-09-21",
   "http://arxiv.org/abs/2609.22076v1": "2026-09-21",
-  "http://arxiv.org/abs/2609.22060v1": "2026-09-21"
+  "http://arxiv.org/abs/2609.22060v1": "2026-09-21",
+  "http://arxiv.org/abs/2609.24994v1": "2026-09-22",
+  "http://arxiv.org/abs/2609.24927v1": "2026-09-22",
+  "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/": "2026-09-22",
+  "http://arxiv.org/abs/2609.24964v1": "2026-09-22",
+  "http://arxiv.org/abs/2609.24969v1": "2026-09-22"
 }
