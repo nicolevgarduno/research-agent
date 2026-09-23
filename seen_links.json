@@ -1,7 +1,4 @@
 {
-  "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/": "2026-08-23",
-  "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/": "2026-08-23",
-  "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/": "2026-08-23",
   "http://arxiv.org/abs/2608.21230v1": "2026-08-24",
   "http://arxiv.org/abs/2608.21137v1": "2026-08-24",
   "http://arxiv.org/abs/2608.21159v1": "2026-08-24",
@@ -114,5 +111,9 @@
   "http://arxiv.org/abs/2609.24927v1": "2026-09-22",
   "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/": "2026-09-22",
   "http://arxiv.org/abs/2609.24964v1": "2026-09-22",
-  "http://arxiv.org/abs/2609.24969v1": "2026-09-22"
+  "http://arxiv.org/abs/2609.24969v1": "2026-09-22",
+  "http://arxiv.org/abs/2609.26761v1": "2026-09-23",
+  "http://arxiv.org/abs/2609.26682v1": "2026-09-23",
+  "http://arxiv.org/abs/2609.26733v1": "2026-09-23",
+  "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/": "2026-09-23"
 }
