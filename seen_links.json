@@ -1,9 +1,4 @@
 {
-  "http://arxiv.org/abs/2608.27439v1": "2026-08-28",
-  "http://arxiv.org/abs/2608.27288v1": "2026-08-28",
-  "http://arxiv.org/abs/2608.27299v1": "2026-08-28",
-  "http://arxiv.org/abs/2608.27443v1": "2026-08-28",
-  "http://arxiv.org/abs/2608.27424v1": "2026-08-28",
   "http://arxiv.org/abs/2608.27393v1": "2026-08-29",
   "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/": "2026-08-29",
   "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/": "2026-08-29",
@@ -111,5 +106,8 @@
   "http://arxiv.org/abs/2609.30214v1": "2026-09-26",
   "http://arxiv.org/abs/2609.30254v1": "2026-09-27",
   "http://arxiv.org/abs/2609.30250v1": "2026-09-27",
-  "http://arxiv.org/abs/2609.30226v1": "2026-09-27"
+  "http://arxiv.org/abs/2609.30226v1": "2026-09-27",
+  "http://arxiv.org/abs/2609.31558v1": "2026-09-28",
+  "http://arxiv.org/abs/2609.31552v1": "2026-09-28",
+  "http://arxiv.org/abs/2609.31603v1": "2026-09-28"
 }
