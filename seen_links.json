@@ -1,7 +1,4 @@
 {
-  "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/": "2026-09-05",
-  "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/": "2026-09-05",
-  "http://arxiv.org/abs/2609.04147v1": "2026-09-05",
   "http://arxiv.org/abs/2609.04198v1": "2026-09-06",
   "http://arxiv.org/abs/2609.04194v1": "2026-09-06",
   "http://arxiv.org/abs/2609.04127v1": "2026-09-06",
@@ -102,5 +99,9 @@
   "http://arxiv.org/abs/2610.02101v1": "2026-10-04",
   "http://arxiv.org/abs/2610.03650v1": "2026-10-05",
   "http://arxiv.org/abs/2610.03702v1": "2026-10-05",
-  "http://arxiv.org/abs/2610.03590v1": "2026-10-05"
+  "http://arxiv.org/abs/2610.03590v1": "2026-10-05",
+  "http://arxiv.org/abs/2610.06814v1": "2026-10-06",
+  "http://arxiv.org/abs/2610.06670v1": "2026-10-06",
+  "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/": "2026-10-06",
+  "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/": "2026-10-06"
 }
