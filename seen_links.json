@@ -1,7 +1,4 @@
 {
-  "http://arxiv.org/abs/2609.04198v1": "2026-09-06",
-  "http://arxiv.org/abs/2609.04194v1": "2026-09-06",
-  "http://arxiv.org/abs/2609.04127v1": "2026-09-06",
   "http://arxiv.org/abs/2609.05401v1": "2026-09-07",
   "http://arxiv.org/abs/2609.05397v1": "2026-09-07",
   "http://arxiv.org/abs/2609.05380v1": "2026-09-07",
@@ -103,5 +100,9 @@
   "http://arxiv.org/abs/2610.06814v1": "2026-10-06",
   "http://arxiv.org/abs/2610.06670v1": "2026-10-06",
   "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/": "2026-10-06",
-  "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/": "2026-10-06"
+  "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/": "2026-10-06",
+  "http://arxiv.org/abs/2610.08739v1": "2026-10-07",
+  "http://arxiv.org/abs/2610.08773v1": "2026-10-07",
+  "http://arxiv.org/abs/2610.08678v1": "2026-10-07",
+  "http://arxiv.org/abs/2610.08791v1": "2026-10-07"
 }
