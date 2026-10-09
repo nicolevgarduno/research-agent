@@ -1,7 +1,4 @@
 {
-  "http://arxiv.org/abs/2609.05370v1": "2026-09-08",
-  "http://arxiv.org/abs/2609.05399v1": "2026-09-08",
-  "http://arxiv.org/abs/2609.05376v1": "2026-09-08",
   "http://arxiv.org/abs/2609.08971v1": "2026-09-09",
   "http://arxiv.org/abs/2609.09087v1": "2026-09-09",
   "http://arxiv.org/abs/2609.09066v1": "2026-09-09",
@@ -104,5 +101,9 @@
   "http://arxiv.org/abs/2610.10436v1": "2026-10-08",
   "http://arxiv.org/abs/2610.10423v1": "2026-10-08",
   "http://arxiv.org/abs/2610.10517v1": "2026-10-08",
-  "http://arxiv.org/abs/2610.10526v1": "2026-10-08"
+  "http://arxiv.org/abs/2610.10526v1": "2026-10-08",
+  "http://arxiv.org/abs/2610.12463v1": "2026-10-09",
+  "http://arxiv.org/abs/2610.12436v1": "2026-10-09",
+  "http://arxiv.org/abs/2610.12445v1": "2026-10-09",
+  "http://arxiv.org/abs/2610.12415v1": "2026-10-09"
 }
