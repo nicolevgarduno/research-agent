@@ -1,7 +1,4 @@
 {
-  "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/": "2026-09-13",
-  "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/": "2026-09-13",
-  "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/": "2026-09-13",
   "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/": "2026-09-14",
   "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/": "2026-09-14",
   "http://arxiv.org/abs/2609.15963v1": "2026-09-15",
@@ -105,5 +102,9 @@
   "http://arxiv.org/abs/2610.13935v1": "2026-10-13",
   "http://arxiv.org/abs/2610.13929v1": "2026-10-13",
   "http://arxiv.org/abs/2610.13889v1": "2026-10-13",
-  "http://arxiv.org/abs/2610.13931v1": "2026-10-13"
+  "http://arxiv.org/abs/2610.13931v1": "2026-10-13",
+  "http://arxiv.org/abs/2610.18866v1": "2026-10-14",
+  "http://arxiv.org/abs/2610.18843v1": "2026-10-14",
+  "http://arxiv.org/abs/2610.18736v1": "2026-10-14",
+  "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/": "2026-10-14"
 }
