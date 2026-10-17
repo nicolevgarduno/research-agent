@@ -1,7 +1,4 @@
 {
-  "http://arxiv.org/abs/2609.17527v1": "2026-09-16",
-  "http://arxiv.org/abs/2609.17399v1": "2026-09-16",
-  "http://arxiv.org/abs/2609.17430v1": "2026-09-16",
   "http://arxiv.org/abs/2609.19140v1": "2026-09-17",
   "http://arxiv.org/abs/2609.18829v1": "2026-09-17",
   "http://arxiv.org/abs/2609.19100v1": "2026-09-17",
@@ -106,5 +103,8 @@
   "http://arxiv.org/abs/2610.20537v1": "2026-10-15",
   "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/": "2026-10-16",
   "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/": "2026-10-16",
-  "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/": "2026-10-16"
+  "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/": "2026-10-16",
+  "http://arxiv.org/abs/2610.22301v1": "2026-10-17",
+  "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/": "2026-10-17",
+  "http://arxiv.org/abs/2610.22322v1": "2026-10-17"
 }
