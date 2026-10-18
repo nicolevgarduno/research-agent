@@ -1,9 +1,4 @@
 {
-  "http://arxiv.org/abs/2609.19140v1": "2026-09-17",
-  "http://arxiv.org/abs/2609.18829v1": "2026-09-17",
-  "http://arxiv.org/abs/2609.19100v1": "2026-09-17",
-  "http://arxiv.org/abs/2609.18862v1": "2026-09-17",
-  "http://arxiv.org/abs/2609.19124v1": "2026-09-17",
   "http://arxiv.org/abs/2609.20812v1": "2026-09-18",
   "http://arxiv.org/abs/2609.20779v1": "2026-09-18",
   "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/": "2026-09-18",
@@ -106,5 +101,8 @@
   "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/": "2026-10-16",
   "http://arxiv.org/abs/2610.22301v1": "2026-10-17",
   "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/": "2026-10-17",
-  "http://arxiv.org/abs/2610.22322v1": "2026-10-17"
+  "http://arxiv.org/abs/2610.22322v1": "2026-10-17",
+  "http://arxiv.org/abs/2610.22335v1": "2026-10-18",
+  "http://arxiv.org/abs/2610.22364v1": "2026-10-18",
+  "http://arxiv.org/abs/2610.22319v1": "2026-10-18"
 }
