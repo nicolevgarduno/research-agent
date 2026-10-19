@@ -1,8 +1,4 @@
 {
-  "http://arxiv.org/abs/2609.20812v1": "2026-09-18",
-  "http://arxiv.org/abs/2609.20779v1": "2026-09-18",
-  "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/": "2026-09-18",
-  "http://arxiv.org/abs/2609.20756v1": "2026-09-18",
   "http://arxiv.org/abs/2609.20747v1": "2026-09-19",
   "http://arxiv.org/abs/2609.20629v1": "2026-09-19",
   "http://arxiv.org/abs/2609.20822v1": "2026-09-19",
@@ -104,5 +100,8 @@
   "http://arxiv.org/abs/2610.22322v1": "2026-10-17",
   "http://arxiv.org/abs/2610.22335v1": "2026-10-18",
   "http://arxiv.org/abs/2610.22364v1": "2026-10-18",
-  "http://arxiv.org/abs/2610.22319v1": "2026-10-18"
+  "http://arxiv.org/abs/2610.22319v1": "2026-10-18",
+  "http://arxiv.org/abs/2610.23847v1": "2026-10-19",
+  "http://arxiv.org/abs/2610.23851v1": "2026-10-19",
+  "http://arxiv.org/abs/2610.23745v1": "2026-10-19"
 }
