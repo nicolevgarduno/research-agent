@@ -1,8 +1,4 @@
 {
-  "http://arxiv.org/abs/2609.30266v1": "2026-09-25",
-  "http://arxiv.org/abs/2609.30217v1": "2026-09-25",
-  "http://arxiv.org/abs/2609.30258v1": "2026-09-25",
-  "http://arxiv.org/abs/2609.30227v1": "2026-09-25",
   "http://arxiv.org/abs/2609.30264v1": "2026-09-26",
   "http://arxiv.org/abs/2609.30249v1": "2026-09-26",
   "http://arxiv.org/abs/2609.30247v1": "2026-09-26",
@@ -102,5 +98,9 @@
   "http://arxiv.org/abs/2610.31624v1": "2026-10-24",
   "http://arxiv.org/abs/2610.31573v1": "2026-10-25",
   "http://arxiv.org/abs/2610.31670v1": "2026-10-25",
-  "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/": "2026-10-25"
+  "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/": "2026-10-25",
+  "http://arxiv.org/abs/2610.32932v1": "2026-10-26",
+  "http://arxiv.org/abs/2610.32765v1": "2026-10-26",
+  "http://arxiv.org/abs/2610.32967v1": "2026-10-26",
+  "http://arxiv.org/abs/2610.32971v1": "2026-10-26"
 }
