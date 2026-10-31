@@ -1,7 +1,4 @@
 {
-  "http://arxiv.org/abs/2609.37972v1": "2026-09-30",
-  "http://arxiv.org/abs/2609.38170v1": "2026-09-30",
-  "http://arxiv.org/abs/2609.38120v1": "2026-09-30",
   "http://arxiv.org/abs/2609.40312v1": "2026-10-01",
   "http://arxiv.org/abs/2609.40335v1": "2026-10-01",
   "http://arxiv.org/abs/2609.40283v1": "2026-10-01",
@@ -107,5 +104,9 @@
   "http://arxiv.org/abs/2610.40616v1": "2026-10-30",
   "http://arxiv.org/abs/2610.40627v1": "2026-10-30",
   "http://arxiv.org/abs/2610.40588v1": "2026-10-30",
-  "http://arxiv.org/abs/2610.40654v1": "2026-10-30"
+  "http://arxiv.org/abs/2610.40654v1": "2026-10-30",
+  "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/": "2026-10-31",
+  "http://arxiv.org/abs/2610.40655v1": "2026-10-31",
+  "http://arxiv.org/abs/2610.40613v1": "2026-10-31",
+  "http://arxiv.org/abs/2610.40589v1": "2026-10-31"
 }
