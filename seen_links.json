@@ -1,7 +1,4 @@
 {
-  "http://arxiv.org/abs/2610.02206v1": "2026-10-02",
-  "http://arxiv.org/abs/2610.02170v1": "2026-10-02",
-  "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/": "2026-10-02",
   "http://arxiv.org/abs/2610.02204v1": "2026-10-03",
   "http://arxiv.org/abs/2610.02159v1": "2026-10-03",
   "http://arxiv.org/abs/2610.02142v1": "2026-10-03",
@@ -108,5 +105,9 @@
   "http://arxiv.org/abs/2610.40589v1": "2026-10-31",
   "http://arxiv.org/abs/2610.40579v1": "2026-11-01",
   "http://arxiv.org/abs/2610.40636v1": "2026-11-01",
-  "http://arxiv.org/abs/2610.40632v1": "2026-11-01"
+  "http://arxiv.org/abs/2610.40632v1": "2026-11-01",
+  "http://arxiv.org/abs/2610.42026v1": "2026-11-02",
+  "http://arxiv.org/abs/2610.41998v1": "2026-11-02",
+  "http://arxiv.org/abs/2610.42047v1": "2026-11-02",
+  "http://arxiv.org/abs/2610.42121v1": "2026-11-02"
 }
