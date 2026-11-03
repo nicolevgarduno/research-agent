@@ -1,7 +1,4 @@
 {
-  "http://arxiv.org/abs/2610.02204v1": "2026-10-03",
-  "http://arxiv.org/abs/2610.02159v1": "2026-10-03",
-  "http://arxiv.org/abs/2610.02142v1": "2026-10-03",
   "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/": "2026-10-04",
   "http://arxiv.org/abs/2610.02113v1": "2026-10-04",
   "http://arxiv.org/abs/2610.02101v1": "2026-10-04",
@@ -109,5 +106,9 @@
   "http://arxiv.org/abs/2610.42026v1": "2026-11-02",
   "http://arxiv.org/abs/2610.41998v1": "2026-11-02",
   "http://arxiv.org/abs/2610.42047v1": "2026-11-02",
-  "http://arxiv.org/abs/2610.42121v1": "2026-11-02"
+  "http://arxiv.org/abs/2610.42121v1": "2026-11-02",
+  "http://arxiv.org/abs/2611.03555v1": "2026-11-03",
+  "http://arxiv.org/abs/2611.03575v1": "2026-11-03",
+  "http://arxiv.org/abs/2611.03588v1": "2026-11-03",
+  "http://arxiv.org/abs/2611.03509v1": "2026-11-03"
 }
