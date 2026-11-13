@@ -1,8 +1,4 @@
 {
-  "http://arxiv.org/abs/2610.13935v1": "2026-10-13",
-  "http://arxiv.org/abs/2610.13929v1": "2026-10-13",
-  "http://arxiv.org/abs/2610.13889v1": "2026-10-13",
-  "http://arxiv.org/abs/2610.13931v1": "2026-10-13",
   "http://arxiv.org/abs/2610.18866v1": "2026-10-14",
   "http://arxiv.org/abs/2610.18843v1": "2026-10-14",
   "http://arxiv.org/abs/2610.18736v1": "2026-10-14",
@@ -110,5 +106,8 @@
   "http://arxiv.org/abs/2611.14397v1": "2026-11-11",
   "http://arxiv.org/abs/2611.14317v1": "2026-11-12",
   "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/": "2026-11-12",
-  "http://arxiv.org/abs/2611.14461v1": "2026-11-12"
+  "http://arxiv.org/abs/2611.14461v1": "2026-11-12",
+  "http://arxiv.org/abs/2611.17143v1": "2026-11-13",
+  "http://arxiv.org/abs/2611.17176v1": "2026-11-13",
+  "http://arxiv.org/abs/2611.17303v1": "2026-11-13"
 }
