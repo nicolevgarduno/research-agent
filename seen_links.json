@@ -1,8 +1,4 @@
 {
-  "http://arxiv.org/abs/2610.20437v1": "2026-10-15",
-  "http://arxiv.org/abs/2610.20609v1": "2026-10-15",
-  "http://arxiv.org/abs/2610.20576v1": "2026-10-15",
-  "http://arxiv.org/abs/2610.20537v1": "2026-10-15",
   "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/": "2026-10-16",
   "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/": "2026-10-16",
   "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/": "2026-10-16",
@@ -108,5 +104,8 @@
   "http://arxiv.org/abs/2611.17303v1": "2026-11-13",
   "http://arxiv.org/abs/2611.17330v1": "2026-11-14",
   "http://arxiv.org/abs/2611.17334v1": "2026-11-14",
-  "http://arxiv.org/abs/2611.17190v1": "2026-11-14"
+  "http://arxiv.org/abs/2611.17190v1": "2026-11-14",
+  "http://arxiv.org/abs/2611.17304v1": "2026-11-15",
+  "http://arxiv.org/abs/2611.17287v1": "2026-11-15",
+  "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/": "2026-11-15"
 }
