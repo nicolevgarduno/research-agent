@@ -1,7 +1,4 @@
 {
-  "http://arxiv.org/abs/2610.22301v1": "2026-10-17",
-  "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/": "2026-10-17",
-  "http://arxiv.org/abs/2610.22322v1": "2026-10-17",
   "http://arxiv.org/abs/2610.22335v1": "2026-10-18",
   "http://arxiv.org/abs/2610.22364v1": "2026-10-18",
   "http://arxiv.org/abs/2610.22319v1": "2026-10-18",
@@ -108,5 +105,10 @@
   "http://arxiv.org/abs/2611.18442v1": "2026-11-16",
   "http://arxiv.org/abs/2611.18563v1": "2026-11-16",
   "http://arxiv.org/abs/2611.18519v1": "2026-11-16",
-  "http://arxiv.org/abs/2611.18530v1": "2026-11-16"
+  "http://arxiv.org/abs/2611.18530v1": "2026-11-16",
+  "http://arxiv.org/abs/2611.21577v1": "2026-11-17",
+  "http://arxiv.org/abs/2611.21538v1": "2026-11-17",
+  "http://arxiv.org/abs/2611.21579v1": "2026-11-17",
+  "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/": "2026-11-17",
+  "http://arxiv.org/abs/2611.21548v1": "2026-11-17"
 }
