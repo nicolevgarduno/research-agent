@@ -1,7 +1,4 @@
 {
-  "http://arxiv.org/abs/2610.22335v1": "2026-10-18",
-  "http://arxiv.org/abs/2610.22364v1": "2026-10-18",
-  "http://arxiv.org/abs/2610.22319v1": "2026-10-18",
   "http://arxiv.org/abs/2610.23847v1": "2026-10-19",
   "http://arxiv.org/abs/2610.23851v1": "2026-10-19",
   "http://arxiv.org/abs/2610.23745v1": "2026-10-19",
@@ -110,5 +107,9 @@
   "http://arxiv.org/abs/2611.21538v1": "2026-11-17",
   "http://arxiv.org/abs/2611.21579v1": "2026-11-17",
   "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/": "2026-11-17",
-  "http://arxiv.org/abs/2611.21548v1": "2026-11-17"
+  "http://arxiv.org/abs/2611.21548v1": "2026-11-17",
+  "http://arxiv.org/abs/2611.23206v1": "2026-11-18",
+  "http://arxiv.org/abs/2611.23202v1": "2026-11-18",
+  "http://arxiv.org/abs/2611.23208v1": "2026-11-18",
+  "http://arxiv.org/abs/2611.23179v1": "2026-11-18"
 }
