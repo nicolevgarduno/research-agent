@@ -1,7 +1,4 @@
 {
-  "http://arxiv.org/abs/2610.26799v1": "2026-10-20",
-  "http://arxiv.org/abs/2610.26809v1": "2026-10-20",
-  "http://arxiv.org/abs/2610.26813v1": "2026-10-20",
   "http://arxiv.org/abs/2610.28524v1": "2026-10-21",
   "http://arxiv.org/abs/2610.28539v1": "2026-10-21",
   "http://arxiv.org/abs/2610.28560v1": "2026-10-21",
@@ -112,5 +109,10 @@
   "http://arxiv.org/abs/2611.24927v1": "2026-11-19",
   "http://arxiv.org/abs/2611.24936v1": "2026-11-19",
   "http://arxiv.org/abs/2611.24765v1": "2026-11-19",
-  "http://arxiv.org/abs/2611.24893v1": "2026-11-19"
+  "http://arxiv.org/abs/2611.24893v1": "2026-11-19",
+  "http://arxiv.org/abs/2611.26553v1": "2026-11-20",
+  "http://arxiv.org/abs/2611.26525v1": "2026-11-20",
+  "http://arxiv.org/abs/2611.26601v1": "2026-11-20",
+  "http://arxiv.org/abs/2611.26569v1": "2026-11-20",
+  "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/": "2026-11-20"
 }
