@@ -1,7 +1,4 @@
 {
-  "http://arxiv.org/abs/2610.31573v1": "2026-10-25",
-  "http://arxiv.org/abs/2610.31670v1": "2026-10-25",
-  "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/": "2026-10-25",
   "http://arxiv.org/abs/2610.32932v1": "2026-10-26",
   "http://arxiv.org/abs/2610.32765v1": "2026-10-26",
   "http://arxiv.org/abs/2610.32967v1": "2026-10-26",
@@ -112,5 +109,9 @@
   "http://arxiv.org/abs/2611.27953v1": "2026-11-24",
   "http://arxiv.org/abs/2611.31129v1": "2026-11-24",
   "http://arxiv.org/abs/2611.31240v1": "2026-11-24",
-  "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/": "2026-11-24"
+  "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/": "2026-11-24",
+  "http://arxiv.org/abs/2611.33030v1": "2026-11-25",
+  "http://arxiv.org/abs/2611.33010v1": "2026-11-25",
+  "http://arxiv.org/abs/2611.33078v1": "2026-11-25",
+  "http://arxiv.org/abs/2611.33145v1": "2026-11-25"
 }
