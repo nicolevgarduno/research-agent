@@ -1,8 +1,4 @@
 {
-  "http://arxiv.org/abs/2610.35682v1": "2026-10-27",
-  "http://arxiv.org/abs/2610.35743v1": "2026-10-27",
-  "http://arxiv.org/abs/2610.35835v1": "2026-10-27",
-  "http://arxiv.org/abs/2610.35857v1": "2026-10-27",
   "http://arxiv.org/abs/2610.37657v1": "2026-10-28",
   "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/": "2026-10-28",
   "http://arxiv.org/abs/2610.37557v1": "2026-10-28",
@@ -112,5 +108,8 @@
   "http://arxiv.org/abs/2611.33145v1": "2026-11-25",
   "http://arxiv.org/abs/2611.34934v1": "2026-11-26",
   "http://arxiv.org/abs/2611.34876v1": "2026-11-26",
-  "http://arxiv.org/abs/2611.34868v1": "2026-11-26"
+  "http://arxiv.org/abs/2611.34868v1": "2026-11-26",
+  "http://arxiv.org/abs/2611.34915v1": "2026-11-27",
+  "http://arxiv.org/abs/2611.34943v1": "2026-11-27",
+  "http://arxiv.org/abs/2611.34932v1": "2026-11-27"
 }
